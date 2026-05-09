@@ -120,6 +120,3 @@ network-landlords/
     └── thread/           # 线程池
 ```
 
-## 许可证
-
-MIT License
